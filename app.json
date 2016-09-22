@@ -1,0 +1,12 @@
+{
+  "name": "Heroku Erlang MQTT",
+  "description": "",
+  "keywords": [
+    "heroku",
+    "erlang"
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-erlang.git"
+  },
+  "success_url": "/"
+}
