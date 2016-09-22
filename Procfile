@@ -1,1 +1,1 @@
-web: ls && ls ./ebin && ./ebin/emqttd start
+web: ls && ./emqttd.d start
