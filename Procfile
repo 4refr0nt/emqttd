@@ -1,1 +1,1 @@
-web: ./bin/emqttd start
+web: ls
